@@ -40,7 +40,7 @@
         <gatling.version>3.7.3</gatling.version>
 
         <!-- WebJars -->
-        <webjars.bootstrap.version>3.3.7</webjars.bootstrap.version>
+        <webjars.bootstrap.version>3.4.0</webjars.bootstrap.version>
 		<webjars.jquery.version>3.2.1</webjars.jquery.version>
 		<webjars.webjars-locator.version>0.40</webjars.webjars-locator.version>
     </properties>
